@@ -30,4 +30,16 @@ ul{
     margin-left: -25px;
     margin-top: 20px;
     margin-bottom: 20px;
+
+}
+.azzurrino{
+    background-color: rgb(127, 212, 236);
+}
+th{
+    color: white;
+    background-color:rgb(20, 150, 200) ;
+}
+table{
+    width: 1000px;
+    
 }
