@@ -43,3 +43,28 @@ table{
     width: 1000px;
     
 }
+h4{
+    color: grey;
+}
+.card1{
+    background-image: url(../img/monitor.jpg);
+    height: 150px;
+    display: inline-block;
+    width: 200px;
+    background-size: contain;
+    color: white;
+    text-align: center;
+    
+}
+.card2{
+    background-image: url(../img/graph.jpg);
+    height: 150px;
+    display: inline-block;
+    width: 200px;
+    background-size: contain;
+    color: white;
+    text-align: center;
+
+
+}
+
